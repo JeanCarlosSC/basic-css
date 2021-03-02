@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: rgb(8, 43, 241);
+    text-align: center;
+}
+
+h2 {
+    color:rgb(241, 55, 8);
+    font-family: 'Gill Sans';
+    font-size: 25px;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
